@@ -11,9 +11,7 @@ website:
   search: true
   back-to-top-navigation: true
   bread-crumbs: false
-  sidebar:
-    collapse-level: 1
-    style: "floating"
+  navbar:
     search: true
     tools:
       - icon: github
@@ -21,17 +19,13 @@ website:
     contents: 
       - text: "Home"
         file: index.qmd
+      - text: "About"
+        file: assets/about_research_track.qmd
       - section: "Meeting Notes"
-        href: assets/meeting_notes.html
+        href: assets/meeting_notes.qmd
         contents:
-        - text: "Welcome"
-          file: assets/day-1-welcome.qmd
-        - text: "GitHub for Collaborative Workflows"
-          file: assets/day-1-pres-github_basics.qmd
-        - text: "Codespaces and VS Code"
-          file: assets/day-1-pres-codespaces.qmd
-        - text: "Reproducible R Environments"
-          file: assets/day-1-pres-reproducible_environments.qmd
+        - text: "March 20, 2025"
+          file: assets/meeting_notes/2025-03-20.qmd
 
 format:
   html:
