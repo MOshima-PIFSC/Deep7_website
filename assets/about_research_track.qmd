@@ -1,20 +1,126 @@
 ---
 title: "Welcome to the Deep 7 Research Track Portal"
-format: closeread-html
+format:
+  closeread-html:
+    embed-resources: true
+    narrative-font-family: Karla
+    css: "customizations/cr-custom.css"
+    cr-style: 
+        narrative-background-color-sidebar: "#C6E6F0"
+        narrative-text-color-sidebar: "#001743"
+        section-background-color: "#fafafa"
+
 ---
 
-# What is the Research Track?
+![](static/deep7.png){fig-align="center"}
 
-The research track is a formal process that allows NOAA scientists the opportunity to deep dive into our scientific approaches and improve how we assess and manage our fisheries. The benefits of a research track are that we are not limited by strict management deadlines.
+::::{.cr-section layout="sidebar-right"}
+
+@cr-what
+
+:::{#cr-what .h1}
+The Deep 7 Research Track is
+:::
+
+a formal process that allows NOAA scientists the opportunity to dive deeper into our scientific approaches and improve how we assess and manage our fisheries.
+
+not limited by strict management deadlines.
+
+a collaborative process with fishers, state scientists, and federal scientists.  
+
+::::
+
+
+# The research track is made up of several different research modules.  
+
+There are many avenues of research we want to explore over the next few years to improve the Deep 7 assessment. Many of the priorities have come directly from suggestions from fishers. Some of our top priorities currently include:  
+
+::::{.cr-section layout="overlay-center"}
+
+:::{.progress-block}
+Refining non-commercial catch estimates using fisher numbers, commercial reports, and surveys. @cr-myimage
+
+Expanding biosampling by partnering with fishers to collect life history and length data.
+
+Enhancing the BFISH survey by reevaluating fishing methods and sampling grid allocations.  
+
+Reassessing the Deep 7 Stock complex and investigating alternative groupings.  
+
+And more!
+:::
+
+:::{#cr-myimage}
+![](static/masa-ibata.jpg)
+
+:::
+::::
+
 
 # Meet the team behind the work
 
 The members of the Island Fisheries Stock Assessment Program at the Pacific Island Fisheries Science Center are working on the modules for the research track.
 
 :::: cr-section
-Megumi Oshima is a stock assessment scientist. She worked on the 2024 Deep 7 Stock Assessment and is working on a simulation model to test the impact of survey effort on estimating the Opakapaka population. @cr-megoshima
+John Syslo is the lead assessment scientist for the Deep 7 Bottomfish. He is leading the Research Track and working on a simulation model to understand the trade-offs of assessing the 7 species as complex.  @cr-johnsyslo
+
+::: {#cr-johnsyslo}
+![](static/johnsyslo.jpg){style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"}
+:::
+
+::::
+
+:::: cr-section
+Megumi Oshima is working on a simulation model to test the impact of survey effort on estimating the Opakapaka population. @cr-megoshima
 
 ::: {#cr-megoshima}
-![](static/moshima.jpeg)
+![](static/moshima.jpeg){style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"}
 :::
 ::::
+
+:::: cr-section
+Hongguang Ma works with the HMRFS data to calculate non-commercial catch for Hawaii stocks. @cr-hongguangma
+
+::: {#cr-hongguangma}
+![](static/hongguang.JPG){style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"}
+:::
+::::
+
+:::: cr-section
+Marc Nadon is working on alternative approaches for estimating non-commercial catch. @cr-marcnadon
+
+::: {#cr-marcnadon}
+![](static/moshima.jpeg){style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"}
+:::
+::::
+
+:::: cr-section
+Felipe Carvalho is the branch chief of the Assessment and Research Branch at PIFSC. @cr-felipecarvalho
+
+::: {#cr-felipecarvalho}
+![](static/felipe.jpg){style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"}
+:::
+::::
+
+
+# How can I get involved?  
+
+::::{.cr-section layout="sidebar-right"}
+
+:::{.progress-block}
+We will be hosting regular meetings to share our progress and get your input. @cr-bfish
+
+If you want to catch up on what happened at previous meetings, click [here](./meeting_notes.qmd). @cr-bfish  
+
+We would love to hear from you, reach out to us at (insert email or some contact method here). @cr-bfish
+
+:::
+
+
+:::{#cr-bfish}
+![](static/bfish.jpg)
+:::
+::::
+
+
+
+  
