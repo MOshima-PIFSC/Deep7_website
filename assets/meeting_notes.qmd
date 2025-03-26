@@ -2,6 +2,10 @@
 title: "Notes from recent constituents meetings"
 ---
 
-# Meeting Dates  
+# Past Meetings   
 
-*   [March 20, 2025](./meeting_notes/2025-03-20.html)
+| Meeting Date  | Topic  |
+|--------|--------|
+| [March 20, 2025](./meeting_notes/2025-03-20.html)  | New Methods for Non-Commercial Catch Estimates |  
+
+: Meeting Notes {.striped .hover}

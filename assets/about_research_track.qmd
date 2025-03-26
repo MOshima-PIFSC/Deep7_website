@@ -89,7 +89,15 @@ Hongguang Ma works with the HMRFS data to calculate non-commercial catch for Haw
 Marc Nadon is working on alternative approaches for estimating non-commercial catch. @cr-marcnadon
 
 ::: {#cr-marcnadon}
-![](static/moshima.jpeg){style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"}
+![](static/marcnadon.jpg){style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"}
+:::
+::::
+
+:::: cr-section
+Ben Richards is the lead of the BFISH survey. @cr-benrichards
+
+::: {#cr-benrichards}
+![](static/benrichards.jpg){style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;"}
 :::
 ::::
 
