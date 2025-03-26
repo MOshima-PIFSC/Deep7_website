@@ -14,7 +14,7 @@ $theme-pale-sea: #C6E6F0;
 $theme-dove-gray: #A5AAAF;
 
 // Get fonts: https://fonts.google.com/
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz@8..144&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz@8..144&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;1,300&display=swap');
 
 // define theme colors
@@ -23,12 +23,23 @@ $body-color: $theme-whale-gray;
 $link-color: $theme-noaa-sea;
 $headings-color: $theme-midnight-sky;
 
+// Navbar background color (NEW)
+$navbar-bg: $theme-twilight-sky;
+$navbar-color: #fafafa; // Optional: navbar text color
+
 // define theme fonts
-$font-family-sans-serif: 'Montserrat', sans-serif;
-$headings-font-family: 'Roboto Serif', serif;
+$font-family-sans-serif: 'Arial', sans-serif;
+$headings-font-family: 'Montserrat', sans-serif;
 $headings-font-weight: 400;
 
 /*-- scss:rules --*/
+
+
+// Navbar styling (NEW)
+.navbar {
+  background-color: $navbar-bg;
+  color: $navbar-color;
+}
 
 // add a shortcut for emphasizing text
 .blue {

@@ -13,27 +13,24 @@ website:
   bread-crumbs: false
   navbar:
     search: true
+    backround: "#A5AAAF"
     tools:
       - icon: github
         href: https://github.com/MOshima-PIFSC/Deep7_website
-    contents: 
-      - text: "Home"
-        file: index.qmd
+    left: 
       - text: "About"
         file: assets/about_research_track.qmd
-      - section: "Meeting Notes"
-        href: assets/meeting_notes.qmd
-        contents:
-        - text: "March 20, 2025"
-          file: assets/meeting_notes/2025-03-20.qmd
+      - text: "Meeting Notes"
+        href: assets/meeting_notes.html
+      
 
-format:
+format: 
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
     toc: true
+    toc-expand: false
+    theme:
+      - default
+      - assets/customizations/website-custom.scss
 
 
 

@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+/* Define color variables at the root level */
+:root {
+  /* NOAA Color Palette */
+  --background-color: #fafafa;
+  --whale-gray: #323C46;
+  --midnight-sky: #001743;
+  --twilight-sky: #002364;
+  --noaa-sky: #003087;
+  --noaa-sea: #0085CA;
+  --pale-sea: #C6E6F0;
+  --dove-gray: #A5AAAF;
+  --size-large: clamp(32px, 4vw, 92px);
+  --size-medium: clamp(24px, 2.5vw, 69px);
+}
+
+// Get fonts: https://fonts.google.com/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body {
+       font-family: 'Roboto', sans-serif;
+   }
+
+.navbar {
+    background-color: var(--twilight-sky);
+    color: #fafafa;
+  }
+
+h1 {
+    color: var(--noaa-sky);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+
+h2 {
+  color: var(--noaa-sea);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+.box-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.noaa-box {
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.box-1 {
+  background-color: var(--noaa-sky);
+}
+
+.box-2 {
+  background-color: var(--noaa-sea);
+}
+
+.box-3 {
+  background-color: var(--twilight-sky);
+}
+
+.box-4 {
+  background-color: var(--pale-sea);
+  color: black;
+}
