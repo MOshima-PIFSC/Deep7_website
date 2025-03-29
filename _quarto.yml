@@ -22,6 +22,8 @@ website:
         file: assets/about_research_track.qmd
       - text: "Meeting Notes"
         href: assets/meeting_notes.html
+      - text: "Presentation"
+        href: assets/presentation.qmd
       
 
 format: 
