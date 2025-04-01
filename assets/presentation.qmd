@@ -6,7 +6,7 @@ slide-format: revealjs
 <div>
 
 ```{=html}
-<iframe class="slide-deck" src="presentation/"></iframe>
+<iframe class="slide-deck" src="presentation/" width="780" height="500"></iframe>
 ```
 
 </div>

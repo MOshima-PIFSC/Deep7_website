@@ -205,60 +205,45 @@ Research Track, What We are Introducing.
 # Research Topics 
 
 
-## Topics {.smaller}
-
-
-::: {.panel-tabset}
-
-## Non-Commerical Catch
+## Refining Non-Commercial Catch Estimates 
 
 ::: {style="text-align:center;"}
 ![](img/Topics1_1.jpg){width="20%"}
 :::
-**Refining Non-Commercial Catch Estimates**
 
 - Develop and evaluate alternative scenarios for non-commercial (NC) Deep 7 catch.
 
 - Use fisher numbers, commercial reports, and surveys to refine estimates.
 
-
-## Biosampling
+## Expanding biosampling 
 
 ::: {style="text-align:center;"}
 ![](img/Topics1_2.jpg){width="20%"}
 :::
-**Expanding biosampling**
 
 - Partner with fishers to collect life history and fish length data.
 
 - Ensure comprehensive spatial coverage of bottomfish fisheries.
 
-
-## BFISH
+## Enhancing the Bottomfish survey 
 
 ::: {style="text-align:center;"}
-![](img/Topics1_3.jpg){width="20%"}
+![](img/Topics1_3.jpg){width="21%"}
 :::
-
-**Enhancing the BFISH survey**
 
 - Reevaluate fishing methods and sampling grid allocation.
 
-## Deep 7
+## Reassessing the Deep 7 Stock Complex
 
 ::: {style="text-align:center;"}
 ![](img/Topics1_4.jpg){width="20%"}
 :::
 
-**Reassessing the Deep 7 Stock Complex**
-
 - Investigate whether Deep 7 species should be assessed as a single complex.
 
 - Determine the optimal assessment structure (single-species vs. subgroup models).
 
-## Misc
-
-**Potential future topics**
+## Potential future topics
 
 - Under-reporting of commercial catch
 - Shark depredation
@@ -266,7 +251,7 @@ Research Track, What We are Introducing.
 - Other ideas?
 
 
-:::
+
 
 ## {.smaller}
 
@@ -308,7 +293,7 @@ If something doesn’t look right, we want to hear about it.
 
 ::::
 
-## Lets Talk{.smaller}
+## Lets Talk 
 
 - What are your thoughts on the Research Track process so far? 
 - Does this approach address your concerns about stock assessments? 
