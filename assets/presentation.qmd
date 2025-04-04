@@ -1,5 +1,5 @@
 ---
-title: "Research Track Presenation" 
+title: "Research Track Presentation" 
 slide-format: revealjs
 ---
 
