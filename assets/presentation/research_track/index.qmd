@@ -1,0 +1,300 @@
+---
+title: "MHI Deep 7"
+subtitle: "Assessment Research Track"
+author: 
+  - name: "Assessment & Research Branch"
+    affiliation: 
+      - "Fisheries Research and Monitoring Division"
+      - "NOAA Pacific Islands Fisheries Science Center"
+format: 
+  revealjs:
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+resources:
+  - presentation.pdf
+
+---
+
+## Outline
+
+1. The Process
+2. What is a research track?
+3. Research Topics
+
+# The Process
+
+## The process is for you -- A collaborative approach {.smaller}
+
+The Deep 7 Research Track is built on your knowlege & experience:
+
+- **A Shared Goal:** Sustainable fisheries that support livelihoods and future generations. 
+- **Your Role Matters:** This is not a top-down decision-making process - your feedback shapes how we improve stock assessments. 
+- **Respecting Local Knowledge:** You know the ocean and the fish - you help make the science stronger. 
+- **Collaborative Process:** Fishers, Federal and State agencies all have a voice. 
+
+## Why your Partcipation is essential{.smaller}
+
+We need your expertise
+
+- **Understanding Changes in Fishing:** You see changes firsthand - this helps refine our analysis. 
+- **Corroborate the Data:** Science is stronger when it aligns with your observations. 
+- **Informing Better Management:** Your input ensures assessments reflect real-world fishing conditions. 
+- **This is a Conversation:** We want to hear what you think at every step. 
+
+# What is a Research Track?
+
+## Why do we need this? {.smaller}
+
+Fisheries are always changing
+
+::: columns
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%" #title-slide .center}
+::: {style="font-size: 70%;"}
+::: {.fragment .fade-in}
+![](img/Research1_1.png){width="25%"} 
+
+**Fishing is Not Like It Used to Be:**  
+
+The ocean, the fish, and the way we fish have all changed over time.
+:::
+:::
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%" #title-slide .center}
+::: {style="font-size: 70%;"}
+::: {.fragment .fade-in}
+![](img/Research1_2.png){width="25%"}
+<br>**Better Tools, Better Data**
+
+New technology helps us track fish populations more accurately than ever before.
+:::
+:::
+:::
+
+::: {.column width="5%"}
+:::
+:::
+
+::: columns
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%" #title-slide .center}
+::: {style="font-size: 70%;"}
+::: {.fragment .fade-in}
+![](img/Research1_3.png){width="25%"}
+<br>**The Ocean is Always Changing**
+
+Weather, climate, and habitat shifts impact fish stocks and where they are found.
+:::
+:::
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%" #title-slide .center}
+::: {style="font-size: 70%;"}
+::: {.fragment .fade-in}
+![](img/Research1_4.png){width="25%"}
+<br>**We Need to Keep Up**
+
+Stock assessments must evolve so we can continue to fish sustainably and ensure a future for everyone.
+:::
+:::
+:::
+
+::: {.column width="5%"}
+:::
+:::
+
+## {.smaller}
+
+:::: {.columns}
+
+::: {.column width = "5%"}
+::: 
+::: {.column width = "25%" #title-slide .center}
+![](img/Research2_1.png){width="45%"}
+<br>**What is a Research Track?**
+
+It’s a deep dive into our scientific approach to improve how we assess and manage fisheries.
+
+:::
+::: {.column width = "5%"}
+:::
+::: {.column width = "25%" #title-slide .center}
+::: {.fragment .fade-down}
+![](img/Research2_2.png){width="45%"}
+<br>**Why Does It Matter?**
+
+Better science means better fisheries. It helps keep stocks healthy for the future.
+:::
+:::
+::: {.column width = "5%"}
+:::
+::: {.column width = "25%" #title-slide .center}
+::: {.fragment .fade-up}
+![](img/Research2_3.png){width="45%"}
+<br>**How Is It Different?**
+
+Instead of just updating old numbers, this looks at new data and better ways to count fish.
+:::
+:::
+
+
+::::
+
+## How is this Different? {.smaller}
+
+Management Track, What we have in place.
+
+- **Mandated to Provide Stock Assessments Every 3 Years**
+
+- **Focus:** Routine updates to inform fishery management decisions (e.g., Catch limits)
+
+- **Goal:** Provide the best available science within strict timelines for management decision-making 
+
+
+:::{.fragment .fade-in}
+::::columns
+::: {.column width = "10%"}
+:::
+::: {.column width = "20%"}
+![](img/Research3_1.png){width="65%"}
+![](img/Research3_2.jpg){width="65%"}
+
+:::
+::: {.column width = "70%"}
+![](img/Research3_3.png){width=980%"}
+:::
+
+::::
+:::
+
+## How is this Different {.smaller}
+::: {.r-stack}
+::: {.fragment .semi-fade-out}
+
+Research Track, What We are Introducing.
+
+
+- **A More Comprehensive & Flexible Approach** 
+
+- **Not Limited by Management Deadlines** – Allows for deeper investigation and innovation 
+
+- **Purpose:** 
+  - Explore new methods & improve assessment models 
+  - Evaluate transitions (e.g., complex-level to single-species assessments) 
+
+- **Not Immediately Used for Management** – Instead, research track findings feed 
+  into future management track assessments 
+:::
+
+![](img/Research4_1.png){.fragment .fade-in .absolute top=100 left=20}
+:::
+
+# Research Topics 
+
+
+## Refining Non-Commercial Catch Estimates 
+
+::: {style="text-align:center;"}
+![](img/Topics1_1.jpg){width="20%"}
+:::
+
+- Develop and evaluate alternative scenarios for non-commercial (NC) Deep 7 catch.
+
+- Use fisher numbers, commercial reports, and surveys to refine estimates.
+
+## Expanding biosampling 
+
+::: {style="text-align:center;"}
+![](img/Topics1_2.jpg){width="20%"}
+:::
+
+- Partner with fishers to collect life history and fish length data.
+
+- Ensure comprehensive spatial coverage of bottomfish fisheries.
+
+## Enhancing the Bottomfish survey 
+
+::: {style="text-align:center;"}
+![](img/Topics1_3.jpg){width="21%"}
+:::
+
+- Reevaluate fishing methods and sampling grid allocation.
+
+## Reassessing the Deep 7 Stock Complex
+
+::: {style="text-align:center;"}
+![](img/Topics1_4.jpg){width="20%"}
+:::
+
+- Investigate whether Deep 7 species should be assessed as a single complex.
+
+- Determine the optimal assessment structure (single-species vs. subgroup models).
+
+## Potential future topics
+
+- Under-reporting of commercial catch
+- Shark depredation
+- New ways of analyzing catch-per-unit-effort
+- Other ideas?
+
+
+
+
+## {.smaller}
+
+:::: {.columns .absolute top=100}
+
+::: {.column width = "5%"}
+::: 
+::: {.column width = "25%" #title-slide .center}
+::: {.fragment .fade-in}
+![](img/Topics2_1.png){width="45%"}
+<br>**Internal Work**
+
+We do the number-crunching
+:::
+:::
+
+::: {.column width = "5%"}
+:::
+::: {.column width = "25%" #title-slide .center}
+::: {.fragment .fade-right}
+![](img/Topics2_2.jpg){width="75%"}
+<br>**Fishers Meeting**
+
+Every quarter, we bring our findings to you so you can tell us if they match the fisheries. 
+
+:::
+:::
+::: {.column width = "5%"}
+:::
+::: {.column width = "25%" #title-slide .center}
+::: {.fragment .fade-right}
+![](img/Topics2_3.jpg){width="65%"}
+<br>**Sharing & Improving Together**
+
+If something doesn’t look right, we want to hear about it.
+:::
+:::
+
+
+::::
+
+## Lets Talk 
+
+- What are your thoughts on the Research Track process so far? 
+- Does this approach address your concerns about stock assessments? 
+- Are there any challenges or uncertainties we should clarify? 

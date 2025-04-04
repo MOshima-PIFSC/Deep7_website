@@ -10,4 +10,4 @@
 /.quarto/
 /_site/
 /_book/
-site_libs/
+*site_libs/
