@@ -12,3 +12,11 @@ slide-format: revealjs
 ```
 
 </div>
+
+</div>
+
+```{=html}
+<iframe src="presentation/non-commercial-bfvr/BFVR catch.pdf" width="780" height="500" /></iframe>
+```
+
+</div>
