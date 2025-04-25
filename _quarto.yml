@@ -25,7 +25,7 @@ website:
       - text: "Presentation"
         href: assets/presentation.qmd
       - text: "BFVR Non-Commercial Catch App"
-        href: https://connect.fisheries.noaa.gov/connect/#/apps/093fc1b8-928f-4ee0-8c3d-bae82dc78295
+        href: https://connect.fisheries.noaa.gov/content/093fc1b8-928f-4ee0-8c3d-bae82dc78295
       
 
 format: 
@@ -35,6 +35,3 @@ format:
     theme:
       - default
       - assets/customizations/website-custom.scss
-
-
-
