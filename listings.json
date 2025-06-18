@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/assets/meeting_notes.html",
+    "items": [
+      "/assets/meeting_notes/2025-03-20.html"
+    ]
+  },
+  {
+    "listing": "/assets/modules.html",
+    "items": [
+      "/assets/modules/BFVR_non_comm_catch.html",
+      "/assets/modules/opaka_BFISH_sim.html"
+    ]
+  }
+]
