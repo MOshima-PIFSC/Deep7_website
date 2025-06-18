@@ -2,7 +2,7 @@
 title: "MHI Deep 7"
 subtitle: "Assessment Research Track"
 author: 
-  - name: "Assessment & Research Branch"
+  - name: "Island Fisheries Stock Assessment Program"
     affiliation: 
       - "Fisheries Research and Monitoring Division"
       - "NOAA Pacific Islands Fisheries Science Center"
