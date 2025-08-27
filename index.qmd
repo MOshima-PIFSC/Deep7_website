@@ -6,9 +6,9 @@ format:
     narrative-font-family: Karla
     css: "assets/customizations/cr-custom.css"
     cr-style: 
-        narrative-background-color-sidebar: "#C6E6F0"
-        narrative-text-color-sidebar: "#001743"
-        section-background-color: "#fafafa"
+      narrative-background-color-sidebar: "#C6E6F0"
+      narrative-text-color-sidebar: "#323C46"  # Dark text for readability
+      section-background-color: "#ffffff"   
 
 ---
 
@@ -18,37 +18,37 @@ format:
 
 @cr-what
 
-:::{#cr-what .h1}
+:::{#cr-what .large-fixed-text}
 The Deep 7 Research Track is
 :::
 
 :::{.progress-block}
-a formal process that allows NOAA scientists the opportunity to dive deeper into our scientific approaches and improve how we assess and manage our fisheries.
+a chance for NOAA scientists to step back from urgent deadlines and take a deeper dive into how we study and protect Hawaii's most valuable bottom fish.
 
-not limited by strict management deadlines.
+free from the pressure of immediate management decisions.
 
-a collaborative process with fishers, state scientists, and federal scientists.  
+a partnership where your knowledge as fishers combines with our scientific tools to create better understanding.
 :::
 
 ::::
 
 
-# The research track is made up of several different research modules.  
+# We're exploring key questions that matter to you  
 
-There are many avenues of research we want to explore over the next few years to improve the Deep 7 assessment. Many of the priorities have come directly from suggestions from fishers. Some of our top priorities currently include:  
+The research priorities below came directly from conversations with fishers like you. Over the next few years, we're tackling the issues you've told us need attention:  
 
-::::{.cr-section layout="overlay-center"}
+::::{.cr-section layout="sidebar-left"}
 
 :::{.progress-block}
-Refining non-commercial catch estimates using fisher numbers, commercial reports, and surveys. @cr-myimage
+Getting better estimates on non-commercial fishing and understanding how the non-commercial fishery really works.  @cr-myimage
 
-Expanding biosampling by partnering with fishers to collect life history and length data.
+Learning more about fish life cycles and sizes by partnering with fishers who can help us collect data from their catches.
 
-Enhancing the BFISH survey by reevaluating fishing methods and sampling grid allocations. 
+Making our research surveys more effective by testing new fishing methods and expanding where we sample. 
 
-Reassessing the Deep 7 Stock complex and investigating alternative groupings.  
+Taking a fresh look at how we group the Deep 7 species and whether there are better ways to study them together.  
 
-And more!
+And much more based on what we learn!
 :::
 
 :::{#cr-myimage}
@@ -62,11 +62,11 @@ And more!
 ::::{.cr-section layout="sidebar-right"}
 
 :::{.progress-block}
-We will be hosting regular meetings to share our progress and get your input. @cr-bfish
+We're holding regular community meetings where you can see our latest findings and share your thoughts. @cr-bfish
 
-If you want to catch up on what happened at previous meetings, click [here](./assets/meeting_notes.qmd). @cr-bfish  
+Missed a meeting? You can catch up on what we've discussed by checking out our [previous meeting notes](./assets/meeting_notes.qmd). @cr-bfish  
 
-We would love to hear from you, reach out to us at (insert email). @cr-bfish
+Have questions or ideas? We want to hear from you! Drop us a line at felipe.carvalho@noaa.gov. @cr-bfish
 
 :::
 

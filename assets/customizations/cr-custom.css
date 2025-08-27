@@ -11,8 +11,9 @@
   --noaa-sea: #0085CA;
   --pale-sea: #C6E6F0;
   --dove-gray: #A5AAAF;
-  --size-large: clamp(32px, 4vw, 92px);
+  --size-large: clamp(30px, 3.2vw, 86px);
   --size-medium: clamp(24px, 2.5vw, 69px);
+  --size-small: clamp(16px, 1.8vw, 24px);  /* Add this line */
 }
 
 // Get fonts: https://fonts.google.com/
@@ -20,6 +21,7 @@
 
 body {
        font-family: 'Roboto', sans-serif;
+       font-size: var(--size-small);
    }
 
 .navbar {
@@ -29,14 +31,21 @@ body {
 
 h1 {
     color: var(--noaa-sky);
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Karla', sans-serif;
     font-weight: 800;
+    font-size: var(--size-large)
 }
 
 h2 {
   color: var(--noaa-sea);
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Karla', sans-serif;
   font-weight: 400;
+  font-size: var(--size-medium);
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  text-align: center;
+  box-sizing: border-box;
+  padding: 0 20px; /* Add some padding so text doesn't touch edges */
 }
 
 .box-container {
@@ -70,4 +79,24 @@ h2 {
 .box-4 {
   background-color: var(--pale-sea);
   color: black;
+}
+
+.large-fixed-text {
+  font-size: var(--size-large);
+  font-weight: 800;
+  font-family: "Karla", sans-serif !important;
+  color: var(--col-text);
+}
+
+/* Target the narrative content specifically */
+.progress-block .narrative {
+  font-size: var(--size-medium) !important;
+  font-family: "Karla", sans-serif !important;
+  color: var(--col-text) !important;
+}
+
+/* Alternative: target all narrative content in progress blocks */
+.progress-block .narrative * {
+  font-size: var(--size-medium) !important;
+  font-family: "Karla", sans-serif !important;
 }
