@@ -1,0 +1,66 @@
+---
+title: "BFISH Preparatory Meeting Notes - 7/2/25"
+date: "07-02-2025"
+---
+
+#### Key Takeaways and Decisions
+
+* R&D will test different gear types during daytime fishing.
+* New gear will include:
+    * One 9ft and one 12ft leader
+    * Hook size #22-26
+    * Bait: fish
+    * Palu: squid/fish
+* Sampling areas will be 80-150 fathoms, hard bottom, high slope grids.
+* The ability to test larger grid sizes will be investigated.
+* The survey is operational as of August 1.
+* **Today's goal:** Research and development with a portion of the 465 total survey grids to evaluate potential issues and questions.
+
+#### Discussion Highlights
+
+* There are 10 years of survey data, providing a good time series for assessment.
+* This year, there are 465 grids, allowing for 5-10% to be dedicated to R&D.
+* The overriding goal is an accurate and precise representation of the fish assemblage across the main 8 Hawaiian Islands, both spatially and temporally.
+* Wholesale changes are not desired, but comparisons between R&D and control grids can be made.
+* Discussion focused on terminal gear vs. night fishing, with terminal gear being potentially more widely implementable.
+* Concern was raised about cherry-picking R&D grids, as only 5-15% (later stated as ~20%) of grids have bottomfish.
+* R&D grids will be based on planned changes, using strata with a higher likelihood of catch.
+* Fishermen's influence on grid location for night fishing was discussed.
+* Concerns about randomization and zeroes preventing testing were noted.
+* Focusing on areas of higher catch for comparisons depends on what is being tested.
+* It's possible to focus on one area and then expand spatially.
+* Terminal gear is likely easier to implement than night fishing due to comfort levels.
+* Daytime depths are typically 105-145 fathoms, nighttime 50-85 fathoms.
+* It's possible to test new gear alongside current gear, with the R&D subset using one traditional line and one with a longer leader.
+* This dual-line approach seems most accurate.
+* Fishermen can adjust depth based on where fish are found.
+* Standardization of equipment across boats is important, despite potential issues with depth recorder quality.
+* Expected effects of new gear include more fish and/or bigger fish, aiming for a more representative catch.
+* Interest is in relative change rather than specific catch percentages.
+* The effect of quadrupling grid size was considered, but the focus is on rig type vs. searching a larger area.
+* Previous work indicated fish were usually caught within 30 minutes in a grid.
+* The discussion moved towards specific gear details rather than fishing locations initially.
+* Concerns about publication of rig details were mentioned, but standardized versions are already in use.
+* Standardizing searching time within grids was also discussed.
+* Leader lengths were discussed (9ft and 15ft, or 9ft and 12ft), with the consensus being 9ft and 15ft for inclusivity.
+* Hook size #22-26 was agreed upon.
+* Daytime fishing, gear efficiency testing, and hard slope areas (80-150 fathoms) were decided upon.
+* Variability in depth within hard slope grids is expected.
+* The gear change is expected to affect opakapaka and onaga, but not ehu.
+* Other species like kalekale and ehu might be different at night.
+* Strata with more opakapaka will be targeted.
+* One line will remain the same, the other will have "maki dog" with two leaders and meat bait on the longer leader.
+* Logsheets already have columns for squid/fish bait.
+* The possibility of asking fishermen on other islands about bait was suggested.
+
+#### Afternoon Session - Bait Discussion
+
+* Opakapaka would use ika, Onaga would use opelu.
+* Fish bait is more critical for onaga.
+* Opelu (all fish) would work for daytime opakapaka fishing.
+* Hook size: #22-26.
+* Reluctance to expand grids; a compromise is to divert to an alternative grid in the same stratum if the primary one is subpar.
+* TRDs are not necessary in R&D lines to avoid tangling.
+* All samplers need to be on the same page for Hawaii-wide implementation.
+* Most fishermen are likely already using these methods and would be happy with the changes.
+* Looking into the number of grids to allocate for R&D.

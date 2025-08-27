@@ -1,0 +1,7 @@
+---
+title: "Rethinking Our Fishery Management: Should We Use a Single-Stock Model for All Species?"
+image: stock_complex_sim.png
+
+---
+
+The purpose of this simulation was to evaluate the implications of applying a single-stock model to a multispecies fishery, sepcifically under the assumption that a given species is in an overfished status. We wanted to evaluate if the single-stock model was able to detect the overfished status of a single species and adjust the recommended catches accordingly. 

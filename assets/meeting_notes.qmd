@@ -3,4 +3,6 @@ title: "Notes from recent constituents meetings"
 listing: 
     contents: meeting_notes
     type: table
+    sort: "date desc"
+    fields: [date, title]
 ---

@@ -1,0 +1,91 @@
+---
+title: "Non-Commerical Catch Follow Up"
+date: "06-12-2025"
+---
+The meeting was held at Pier 38 on June 12, 2025. The following summarizes the discussions that were had during the meeting.  
+
+---
+
+#### Welcome Remarks
+
+* Issues were noted with the Google Space outage.
+
+#### Re-cap of New Catch Definitions
+
+* Proposed new terminology: **non-commercial, reported commercial**, and **unreported commercial**, replacing the old reported and unreported categories.
+* One participant asked if BFISH data supports the new non-commercial effort replication, noting BFISH sampling is more representative of non-commercial trips, including catch size distribution.
+* Another participant suggested comparing BFISH trip distribution (number of trips and catch per trip in lbs) to MRIP trip interviews.
+* A participant commented that smaller fish are often caught by those fishing for fun, suggesting that lower catch weights could equate to several small fish.
+* Various ways to analyze catch were noted, including size, number, and total weight.
+* A participant recommended using the lower end of the catch spectrum for limits and mentioned low participation on Kauai, with only a few individuals catching significant amounts of fish.
+
+#### Questions about Surveying BFVR Registrants
+
+* One participant asked about legal reasons preventing direct surveys of BFVR registrants and what prevents creating such a survey.
+* A participant responded that contacting them is possible, similar to the Uku mail survey, and if that survey is successful, it could be a model for Deep7.
+* It was questioned whether a survey could be completed before the current year's big season, suggesting that starting immediately might yield answers by February, as target fishers are mainly active during the holiday season.
+* A participant noted that starting a survey takes time, making it unlikely for the current year.
+* The small number of people on the registry was commented on, suggesting it's the most obvious way to get real numbers.
+* Another participant recommended waiting to assess the Uku survey's response rate.
+* A suggestion was made to include general questions about fishing frequency in the BFVR renewal form.
+* One participant highlighted the importance of vessel registration, as multiple individuals might be on the same boat.
+* Another participant mentioned collapsing catch data to a per-boat basis, even if multiple fishers were involved.
+* A participant agreed that commercial fishers report catch per boat, allowing for comparison with non-commercial data.
+* An anecdote was shared about a father reporting sold catch and a partner reporting fish for personal consumption, questioning why so many commercial trips show catches below 50 lbs.
+* A participant emphasized ensuring correct aggregation of low-catch trips, suggesting they might be from individuals with CMLs trying to bypass bag limits.
+* It was noted that some individuals maintain CMLs and report minimal catch due to concerns about potential limited entry into the fishery.
+* A participant cautioned against assuming doubled catch if twice as many people are fishing than registered, noting that weather and casual fishing influence catch.
+* A clarification was made that the data excluded sold catch (from HMRFS estimation) and included about 250 people for catch distribution.
+* It was stated that the commercial catch distribution is real and crucial for understanding the fishery, with some CML holders being unprofitable or retired, reporting to FRS to avoid bag limits. This FRS data could be an upper limit for non-commercial catch, providing a lower estimate than commercial catch.
+* A participant asked if trips where bottomfish were not the primary target or where multiple gear types were used should be included in commercial catch.
+* Another participant affirmed their inclusion as they serve as good proxies for non-commercial fishers.
+* One participant inquired about considering effort (hours fished).
+* It was explained that trips are used to filter fishermen types, focusing on annual catch rather than hours fished.
+* The discussion touched on how management transitions and allowed gear types significantly influence catch, referencing past regulations.
+* One participant mentioned the prevalence of electric reels in Kona and linked catch amounts to the cost of fishing versus fish price.
+* A participant related the discussion to fisher motivation and market dynamics, noting that the BFVR approach, while imperfect, is an improvement and includes a catch trigger.
+* Observations about market weakness for bottomfish outside holiday seasons were acknowledged, making big loads less profitable.
+* It was noted that some fishermen, though rare, can catch large amounts (1000 lbs) per trip despite not fishing often.
+
+---
+
+### Informal Survey and Assumptions for Non-Commercial Catch Estimation
+
+* A participant questioned the enforcement of the BF register, considering the low cost of registration versus the value of fish and operational costs.
+* It was acknowledged that both unregistered fishing and registered non-fishing occur, but they might cancel each other out.
+* A discussion occurred on whether the number of BF-registered boats reflects the size of the non-commercial Deep 7 sector, with ranges provided for:
+    * **Percent of non-commercial Deep 7 fishers not on the BF registry:** 10-60% (average 32.5%).
+    * **Percent of non-commercial BF registrants not actually fishing for Deep7:** 0-80% (average 47.5%).
+* One participant offered to ask questions at an upcoming trolling fishing tournament in Kauai, providing access to at least 40 boats.
+* The difficulty in knowing these numbers was noted, and it was suggested to look at BFVR registration turnover.
+* A proposal was made to send a survey to past registrants to gather better numbers.
+* Concerns were raised about the lack of outreach and education regarding the BFVR, suggesting targeting currently registered individuals to inform them about its purpose.
+* It was noted that initial BFVR promotion was strong 10-15 years ago, but the barrier to entry has since lowered, leading to more unregistered fishers. A survey was suggested to answer the question.
+* One participant agreed that easier access to smaller gear has likely increased non-commercial fishers and that the "buzz" about BFVR has faded, with many faithful re-registering.
+* A suggestion was made to revamp the registration process if BFVR is to be relied upon for catch data.
+* It was questioned if others knew of non-commercial Deep 7 fishers without BFVRs, suggesting such individuals might not need to register if they don't catch much.
+* A participant asked for specific examples of such fishers, given a general number in mind.
+* A participant mentioned seeing new boats without BF stickers and knew several unregistered fishers, asking what would encourage registration.
+* A small fee ($10) for BFVR was suggested to filter out those with no intent to bottomfish.
+* It was noted that while people register with intent to fish, only 40% of commercial BFVRs provide catch reports.
+* A participant expressed concern that the extreme variability in responses indicates a lack of clear knowledge, making it dangerous to draw conclusions.
+* It was suggested to experiment with different values to observe their impact on estimates and the effect of variability.
+* One participant proposed adding key points of uncertainty for stock assessment to a grid, noting that international fisheries often use multiple models to capture the full range of uncertainty.
+* The need to move beyond assumptions and obtain more definite answers was emphasized.
+* A participant highlighted that the research track helps identify gaps for addressing assumptions.
+* The discussion included how unregistered fishers might target other species like Uku but switch to Deep7 if available, emphasizing the need to consider the broader picture and the overlap between Uku and Deep7 fishers. It was also noted that the localized nature of the fishery and the importance of fish value define commercial fishers.
+
+---
+
+### Explorations Using the Online Catch Tool
+
+* It was stated that non-commercial fishers, regardless of parameterization, do not have a significant impact.
+* A participant questioned the impact on stock assessment, specifically if more fish caught correlates with a healthier stock.
+* It was clarified that total catch scales the population up or down, but trends have a greater impact.
+* A participant shared a misconception about catch rate and stock size, which was then corrected.
+* The participant clarified that an increased or stable catch rate indicates more fish in the water.
+* It was explained that population trends are based on CPUE, while scale is based on catch, and that BFISH primarily shows trends, making an independent survey crucial.
+* One participant inquired about the impact of size class, noting that BFISH might not catch large fish due to sampling protocols.
+* It was questioned how the new approach would affect quotas, given a previous 50/50 allocation, and if it suggests lower mortality, leading to an increased ACL.
+* Another participant stated that the model would indicate this.
+* A participant commented that catch data from 1948 cannot be directly compared to the current fishery due to changes in fishers.
