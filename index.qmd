@@ -42,7 +42,7 @@ The research priorities below came directly from conversations with fishers like
 :::{.progress-block}
 Getting **better estimates** on non-commercial fishing and understanding how the non-commercial fishery really works.  @cr-myimage
 
-Learning more about fish life cycles and sizes by **partnering** with fishers who can help us collect data from their catches.
+Learning more about fish life cycles and growth by **partnering** with fishers who can help us collect data from their catches.
 
 Making our research surveys more effective by testing **new fishing methods** and **expanding** where we sample. 
 
