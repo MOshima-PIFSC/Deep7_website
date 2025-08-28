@@ -18,7 +18,7 @@ website:
       - icon: github
         href: https://github.com/MOshima-PIFSC/Deep7_website
     left: 
-      - text: "Modules"
+      - text: "Research topics"
         file: assets/modules.qmd
       - text: "Meeting Notes"
         href: assets/meeting_notes.html

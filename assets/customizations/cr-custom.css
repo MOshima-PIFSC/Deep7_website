@@ -27,6 +27,7 @@ body {
 .navbar {
     background-color: var(--twilight-sky);
     color: #fafafa;
+    font-size: --size-small;
   }
 
 h1 {
